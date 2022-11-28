@@ -3,8 +3,8 @@
 #that involve the Hurwitz-Lerch zeta distribution
 #
 #
-#Author: Hongxiang Li, Tsung Fei Khang
-#Date: 26 November 2022
+#Authors: Hongxiang Li, Tsung Fei Khang
+#Date: 28 November 2022
 #Version: 1.1
 #Contact: chelsea.divo@hotmail.com (HXL); tfkhang@um.edu.my (TFK)
 #################################################################
